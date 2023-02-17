@@ -23,10 +23,19 @@ spring:
     activate:  
       on-profile: "local_db"  
   datasource:  
-    url: jdbc:mysql://localhost:3306/local?serverTimezone=UTC&characterEncoding=UTF-8  
-    username: local  
-    password: local  
+    url: jdbc:h2:mem:testdb 
+    username: sa  
+    password:  
     driver-class-name: org.h2.Driver
+---  
+spring:  
+  config:  
+    activate:  
+      on-profile: "deploy_db"  
+  datasource:  
+    url: jdbc:mysql://localhost:3306/local?serverTimezone=UTC&characterEncoding=UTF-8  
+    username: deploy  
+    password: deploy  
 ```
 
 빈 등록시에도 `profile`을 지정해서 특정 `profile`에서만 등록되도록 할 수 있다.
