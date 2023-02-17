@@ -1,3 +1,3 @@
 # TIL
 
-[yml profile 분리](POST/yml Profile 분리.md)
+[yml profile 분리](POST/yml_Profile_분리.md)
