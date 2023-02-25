@@ -44,7 +44,7 @@
 행위 검증은 검증하는 메소드가 참조하고 있는 메소드를 제대로 부르고 있는지에 대한 `행위를 검증`하는 것이다.
 
 #### 참고 링크
-[SpringBoot @MockBean, @SpyBean 소개](https://jojoldu.tistory.com/226)
-[Mockito features in Korean](https://github.com/mockito/mockito/wiki/Mockito-features-in-Korean)
-[Mockito @Mock @MockBean @Spy @SpyBean 차이점](https://cobbybb.tistory.com/16)
-[[tdd] 상태검증과 행위검증, stub과 mock 차이](https://joont92.github.io/tdd/%EC%83%81%ED%83%9C%EA%B2%80%EC%A6%9D%EA%B3%BC-%ED%96%89%EC%9C%84%EA%B2%80%EC%A6%9D-stub%EA%B3%BC-mock-%EC%B0%A8%EC%9D%B4/)
+* [SpringBoot @MockBean, @SpyBean 소개](https://jojoldu.tistory.com/226)
+* [Mockito features in Korean](https://github.com/mockito/mockito/wiki/Mockito-features-in-Korean)
+* [Mockito @Mock @MockBean @Spy @SpyBean 차이점](https://cobbybb.tistory.com/16)
+* [[tdd] 상태검증과 행위검증, stub과 mock 차이](https://joont92.github.io/tdd/%EC%83%81%ED%83%9C%EA%B2%80%EC%A6%9D%EA%B3%BC-%ED%96%89%EC%9C%84%EA%B2%80%EC%A6%9D-stub%EA%B3%BC-mock-%EC%B0%A8%EC%9D%B4/)
