@@ -28,3 +28,13 @@ copy {
 	}
 }
 ```
+
+# 변경할 때
+
+`submodule`이 해당 레포지토리 자체를 가르키는 것이 아니라 특정 커밋을 참고하기 때문에 `submodule`을 업데이트한 후 `commit`한 후에 `main repo`에서 `commit` 해주면 된다.
+
+# `clone`할 때
+
+```console
+git clone --recurse-submodules {repository url}
+```
