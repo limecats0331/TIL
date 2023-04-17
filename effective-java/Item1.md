@@ -184,7 +184,7 @@ List.of("kim","lee");
 * `싱글톤 패턴`을 구현할 때 사용하기도 한다.
 * `JVM`에서 오직 하나만 만들어 진다.
 
-### EnumMap과 HashMap, EnumSet과 HashSet의 차이
+### `EnumMap`과 `HashMap`, `EnumSe`t과 `HashSet`의 차이
 `EnumMap`은 `HashMap`과 유사하게 `Map`을 구현한 구현체이지만 `Key`를 `Enum`으로 가진다는 특성을 가지고 있다. 둘은 몇가지 차이점을 가지고 있다.  
 `HashMap`의 경우 key를 bucket에 저장하고 bucket이 `linked list`를 참조하는 형태로 되어 있는 반면에 `EnumMap`의 경우 key에 들어올 값이 한정되어 있기 때문에 `Array`를 선언하고 해당 index에 값을 넣으면 된다.
 `index`를 가지고 올 때는 `Enum의 ordinal 함수`를 사용해서 바로 순서를 가지고 올 수 있다.

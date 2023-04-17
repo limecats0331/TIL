@@ -11,8 +11,12 @@
             "id": "ca3d2dc25cc27a3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "effective-java/Item1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aba2bbf8e1d4d2b0",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "effective-java/Item1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "effective-java/Item1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "effective-java/Item1.md"
+              }
             }
           }
         ],
@@ -139,7 +148,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ca3d2dc25cc27a3d",
+  "active": "05c6e5ead363a0fd",
   "lastOpenFiles": [
     "effective-java/Item1.md",
     "README.md",
