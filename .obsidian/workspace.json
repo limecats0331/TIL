@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee90d28585932e3e",
+        "id": "3a0fb6ac8780f351",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9146548d03287f",
+            "id": "ca3d2dc25cc27a3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POST/yml_submodule_연결.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POST/yml_submodule_연결.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POST/yml_submodule_연결.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "POST/yml_submodule_연결.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,20 +139,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a9146548d03287f",
+  "active": "ca3d2dc25cc27a3d",
   "lastOpenFiles": [
     "effective-java/Item1.md",
+    "README.md",
+    "POST/Test_with_MockMvc.md",
+    "POST/MockMvc_한글_깨짐.md",
+    "POST/Test_Double.md",
+    "POST/yml_Profile_분리.md",
+    "POST/yml_submodule_연결.md",
     "img/File_content.png",
     "img/META-INF.png",
     "img",
-    "README.md",
     "effective-java",
-    "POST/Test_with_MockMvc.md",
     "ambari 설치.md",
-    "POST/Test_Double.md",
-    "POST/MockMvc_한글_깨짐.md",
-    "POST/yml_submodule_연결.md",
-    "POST/yml_Profile_분리.md",
     "Pasted image 20230217131016.png"
   ]
 }
