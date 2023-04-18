@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "14c27aa0e7aef237",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe54a424c9d4ebcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa116d630e7530c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "effective-java/Item1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e30986b7cc85257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "effective-java/Item2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7569ae4b66b138f",
+    "type": "split",
+    "children": [
+      {
+        "id": "380858bf216b5343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c6e5ead363a0fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee397e805494d032",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc5b9bbe506a57b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aba2bbf8e1d4d2b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf7ae8bd174c227d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1855e22ca3101b36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "effective-java/Item2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b86bc1394a5f19b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "effective-java/Item2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d09990e677637376",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc6e6e09a74d47f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "effective-java/Item2.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:새 캔버스 만들기": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6e30986b7cc85257",
+  "lastOpenFiles": [
+    "effective-java/Item1.md",
+    "effective-java/Item2.md",
+    "img/builder-pattern.svg",
+    "img/File_content.png",
+    "POST/yml_submodule_연결.md",
+    "POST/yml_Profile_분리.md",
+    "POST/Test_with_MockMvc.md",
+    "POST/Test_Double.md",
+    "POST/MockMvc_한글_깨짐.md",
+    "README.md",
+    "Pasted image 20230217131016.png"
+  ]
+}
