@@ -8,3 +8,4 @@
 
 ## effective java
 * [item1 - 생성자 대신 정식 팩터리 메서드를 고려하라.](effective-java/Item1.md)
+* [item2 - 생성자에 매개변수가 많다면 빌더를 고려하라.](effective-java/Item2.md)
