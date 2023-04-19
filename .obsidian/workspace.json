@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f5385447359a21",
+        "id": "369bfba4ba82f00a",
         "type": "tabs",
         "children": [
           {
-            "id": "8aebc00bed59bf53",
+            "id": "8785274fbd1394dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "effective-java/Item2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective-java/Item2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective-java/Item2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "effective-java/Item2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,12 +139,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8aebc00bed59bf53",
+  "active": "8785274fbd1394dd",
   "lastOpenFiles": [
+    "OS_and_computer_structure/1-Computer_Structure_Start.md",
     "README.md",
     "effective-java/Item2.md",
     "img/builder-pattern.svg",
-    "OS_and_computer_structure/1-Computer_Structure_Start.md",
     "OS_and_computer_structure",
     "design-pattern-in-go",
     "effective-java/Item1.md",
