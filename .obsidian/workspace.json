@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee5f162fbf9bf59",
+        "id": "369bfba4ba82f00a",
         "type": "tabs",
         "children": [
           {
-            "id": "7c26f1ef737af110",
+            "id": "8785274fbd1394dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective-java/Item3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "255f9e5efcbda243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "OS_and_computer_structure/4-CPU.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aba2bbf8e1d4d2b0",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OS_and_computer_structure/4-CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OS_and_computer_structure/4-CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OS_and_computer_structure/4-CPU.md"
               }
             }
           }
@@ -160,23 +148,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "255f9e5efcbda243",
+  "active": "8785274fbd1394dd",
   "lastOpenFiles": [
+    "img/제어장치.png",
+    "img/ALU.png",
+    "OS_and_computer_structure/4-CPU.md",
+    "effective-java/Item3.md",
     "OS_and_computer_structure/3-Command.md",
     "OS_and_computer_structure/2-Binary.md",
-    "effective-java/Item3.md",
-    "effective-java/Item2.md",
-    "README.md",
     "OS_and_computer_structure/1-Computer_Structure_Start.md",
-    "OS_and_computer_structure",
-    "effective-java/Item1.md",
+    "README.md",
+    "effective-java/Item2.md",
     "img/builder-pattern.svg",
-    "img/File_content.png",
-    "POST/yml_submodule_연결.md",
-    "POST/yml_Profile_분리.md",
+    "OS_and_computer_structure",
+    "design-pattern-in-go",
+    "effective-java/Item1.md",
     "POST/Test_with_MockMvc.md",
-    "POST/Test_Double.md",
     "POST/MockMvc_한글_깨짐.md",
+    "POST/Test_Double.md",
+    "POST/yml_Profile_분리.md",
+    "POST/yml_submodule_연결.md",
+    "img/File_content.png",
+    "img/META-INF.png",
+    "img",
+    "effective-java",
+    "ambari 설치.md",
     "Pasted image 20230217131016.png"
   ]
 }
