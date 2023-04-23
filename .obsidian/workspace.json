@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS_and_computer_structure/4-CPU.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aba2bbf8e1d4d2b0",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS_and_computer_structure/4-CPU.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS_and_computer_structure/4-CPU.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS_and_computer_structure/4-CPU.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,14 +149,14 @@
   },
   "active": "8785274fbd1394dd",
   "lastOpenFiles": [
+    "OS_and_computer_structure/4-CPU.md",
+    "README.md",
     "img/제어장치.png",
     "img/ALU.png",
-    "OS_and_computer_structure/4-CPU.md",
     "effective-java/Item3.md",
     "OS_and_computer_structure/3-Command.md",
     "OS_and_computer_structure/2-Binary.md",
     "OS_and_computer_structure/1-Computer_Structure_Start.md",
-    "README.md",
     "effective-java/Item2.md",
     "img/builder-pattern.svg",
     "OS_and_computer_structure",

@@ -15,4 +15,5 @@
 * [컴퓨터 구조 시작하기](/OS_and_computer_structure/1-Computer_Structure_Start.md)
 * [0과 1로 표현하기](/OS_and_computer_structure/2-Binary.md)
 * [명령어](/OS_and_computer_structure/3-Command.md)
+* [CPU](/OS_and_computer_structure/4-CPU.md)
 
