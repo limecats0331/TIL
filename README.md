@@ -19,4 +19,5 @@
 * [명령어](/OS_and_computer_structure/3-Command.md)
 * [CPU](/OS_and_computer_structure/4-CPU.md)
 * [CPU 성능 향상 기법](/OS_and_computer_structure/5-FastCPU.md)
+* [메모리와 캐시 메모리](/OS_and_computer_structure/6-Memory&Cache_Memory.md)
 
