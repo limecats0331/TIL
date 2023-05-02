@@ -20,4 +20,5 @@
 * [CPU](/OS_and_computer_structure/4-CPU.md)
 * [CPU 성능 향상 기법](/OS_and_computer_structure/5-FastCPU.md)
 * [메모리와 캐시 메모리](/OS_and_computer_structure/6-Memory&Cache_Memory.md)
+* [보조기억장치](/OS_and_computer_structure/7-Auxiliary_storage.md)
 
