@@ -23,4 +23,6 @@
 * [메모리와 캐시 메모리](/OS_and_computer_structure/6-Memory&Cache_Memory.md)
 * [보조기억장치](/OS_and_computer_structure/7-Auxiliary_storage.md)
 * [입출력장치](/OS_and_computer_structure/8-Input_device.md)
+* [운영체제 시작하기](/OS_and_computer_structure/9-OS_start.md)
+
 
