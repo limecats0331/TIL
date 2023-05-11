@@ -28,6 +28,7 @@
 * [CPU 스케줄링](/OS_and_computer_structure/11-CPU_Scheduling.md)
 * [프로세스 동기화](/OS_and_computer_structure/12-Process_Synchronization.md)
 * [교착 상태](/OS_and_computer_structure/13-Deadlock.md)
+* [가상 메모리](/OS_and_computer_structure/14-Virtual_Memory.md)
 
 
 
