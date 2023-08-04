@@ -1,3 +1,6 @@
+# 혼자 공부하는 컴퓨터구조 + 운영체제
+![](../img/OS_and_Computer.png)
+
 * [컴퓨터 구조 시작하기](/OS_and_computer_structure/1-Computer_Structure_Start.md)
 * [0과 1로 표현하기](/OS_and_computer_structure/2-Binary.md)
 * [명령어](/OS_and_computer_structure/3-Command.md)
